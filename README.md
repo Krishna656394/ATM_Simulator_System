@@ -23,7 +23,8 @@ A desktop-based Java application that simulates the core functionalities of an A
 | JDBC           | Java Database Connectivity    |
 |NetBeans | IDEs used for development |
 
-![Transaction Page](Transaction.png)
+Transaction Page(https://github.com/Krishna656394/ATM_Simulator_System/blob/main/Bank%20Management%20System/Transaction.png)
+
 
 
 ## 📁 Project Structure
