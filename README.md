@@ -23,7 +23,9 @@ A desktop-based Java application that simulates the core functionalities of an A
 | JDBC           | Java Database Connectivity    |
 |NetBeans | IDEs used for development |
 
-## 📸 !(Transaction.png)
+## 📸 Transaction Page
+
+![Transaction Page](Transaction.png)
 
 
 
